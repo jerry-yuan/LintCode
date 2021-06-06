@@ -1,0 +1,7 @@
+package lintcode.q90;
+
+public class Q90 {
+    public static void main(String[] args) {
+        System.out.println(new Solution().kSumII(new int[]{1, 2, 3, 4}, 2, 5));
+    }
+}
